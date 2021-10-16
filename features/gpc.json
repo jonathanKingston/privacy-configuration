@@ -1,0 +1,11 @@
+{
+    "_meta": {
+        "description": "Global Privacy Control indicator",
+        "sampleExcludeRecords": {
+            "domain": "example.com",
+            "reason": "site breakage"
+        }
+    },
+    "state": "enabled",
+    "exceptions": []
+}
